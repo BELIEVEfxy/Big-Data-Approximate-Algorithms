@@ -1,4 +1,4 @@
-# Big Data Approximate Algorithms
+# Big Data Approximate Algorithms [2019-01]
 整理几个大数据近似算法，涉及到随机采样、略图、数据流、滑动窗口算法等，包括布隆过滤器、Walker’s Alias Method、Count Sketch、FM Sketch、二部图判断的流算法、EH算法
 
 ## Bloom Filter（布隆过滤器）
